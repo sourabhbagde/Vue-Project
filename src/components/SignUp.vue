@@ -38,7 +38,6 @@ export default {
       console.warn(result);
       if (result.status == 201) {
         alert('Sign Up is completed.');
-        alert('Success');
       }
     },
   },
