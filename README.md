@@ -1,4 +1,4 @@
-# project1
+# Basic SignUp Page
 
 ## Project setup
 
