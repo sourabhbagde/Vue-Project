@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "id": "157f",
+      "fname": "James",
+      "lname": "Bond",
+      "email": "james.bond@hotmail.com",
+      "password": "007"
+    },
+    {
+      "id": "7c3f",
+      "fname": "ww",
+      "lname": "ww",
+      "email": "eew",
+      "password": "we"
+    },
+    {
+      "id": "b570",
+      "fname": "Grogu",
+      "lname": "Mando",
+      "email": "grogu@gmail.com",
+      "password": "frogeggs"
+    },
+    {
+      "id": "65eb",
+      "fname": "Grogu",
+      "lname": "Mando",
+      "email": "grogu@gmail.com",
+      "password": "frogeggs"
+    },
+    {
+      "id": "2e9b",
+      "fname": "fcew",
+      "lname": "dwd",
+      "email": "ww",
+      "password": "wew"
+    },
+    {
+      "id": "f272",
+      "fname": "fcew",
+      "lname": "dwd",
+      "email": "ww",
+      "password": "wew"
+    },
+    {
+      "id": "b3ce",
+      "fname": "Test222",
+      "lname": "TestingName",
+      "email": "Test@gmqail.com",
+      "password": "wekfewfew"
+    }
+  ]
+}
